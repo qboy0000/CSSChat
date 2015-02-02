@@ -8,7 +8,7 @@ Express server listening on port 3000
 
 然后在浏览器中输入 http://localhost:3000 即可使用
 
-如果需要提交代码请联系guow.qiu@gmail.com
+如果需要提交代码请联系
 
 使用 Express +  Socket.IO 搭建的多人聊天室
 
